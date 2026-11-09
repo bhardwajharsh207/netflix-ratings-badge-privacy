@@ -1,7 +1,7 @@
-# Privacy Policy — Ratings Badge for Netflix
+# Privacy Policy — IMDb Ratings for Netflix
 _Last updated: 8 November 2026_
 
-Ratings Badge for Netflix ("the extension") is an unofficial tool, not affiliated with Netflix or IMDb.
+IMDb Ratings for Netflix ("the extension") is an unofficial tool, not affiliated with Netflix or IMDb.
 
 **What it reads:** only the titles of movies and shows visible on netflix.com pages you open, so it can look up their ratings.
 
